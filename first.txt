@@ -7,4 +7,6 @@ gitの練習をする
 .git rm
 .git status
 .git diff
-/
+/変更変更の変更
+1
+ほかにも
